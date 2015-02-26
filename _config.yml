@@ -1,0 +1,7 @@
+name: "Robert"
+description: "His name is not really Robert"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
